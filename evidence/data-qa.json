@@ -1,0 +1,14 @@
+{
+  "downloaded_rows": 1518,
+  "unique_periods": 66,
+  "counties_per_period": 22,
+  "national_reconciliation_all_periods": true,
+  "annual_month_sum_2022_2025": true,
+  "source_end": "2026-09",
+  "annual_default": 2025,
+  "national_2025_odor": 67248,
+  "national_2025_all": 272191,
+  "no_population_rate": true,
+  "no_point_locations": true,
+  "download_sha256": "8b7871829f78305f7332a52fb3283a79d3f605b38d82b692500a59eb6259bdc3"
+}
